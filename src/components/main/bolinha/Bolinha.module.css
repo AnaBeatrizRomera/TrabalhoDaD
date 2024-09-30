@@ -1,0 +1,32 @@
+.container{
+    display: inline;
+    margin: 10%;
+    
+}
+.bolinha{
+    margin-left: 40%;
+    width: 3.5rem;
+    height: 3.5rem;
+    background-color: black;
+    border-radius: 50%;
+    border: solid rgb(167, 163, 163) 7px;
+}
+.img{
+    margin: 15%;
+    height: 70%;
+}
+.titulo{
+    font-weight: 1000;
+    font-family: 'Inter';
+    font-size: 80%;
+    text-align: center;
+}
+.texto{
+    text-align: center;
+    width: 15rem;
+    margin-top: 0.5%;
+    font-weight: 500;
+    font-family: 'Inter';
+    font-size: 60%;
+
+}

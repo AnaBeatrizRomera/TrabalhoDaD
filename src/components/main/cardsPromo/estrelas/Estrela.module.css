@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+.estrela{
+    user-select: none;
+    width: 1rem;
+    margin-left: 1%;
+}

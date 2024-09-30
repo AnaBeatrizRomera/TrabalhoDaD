@@ -1,0 +1,129 @@
+.fundoanuncio{
+    display: flex;
+    user-select: none;
+    background-color: black;
+    color: whitesmoke;
+    font-size: 14px;
+    width: 62%;
+    height: 20rem;
+}
+.apple{
+    width: 5%;
+    align-self: baseline;
+    padding-top: 6%;
+    margin-left: 7%;
+}
+.texto{
+    user-select: none;
+    padding-top: 8%;
+    font-family: "Inter";
+    font-size: 100%;
+    margin-left: 3%;
+    height: 20%;
+}
+.desconto{
+    color: whitesmoke;
+    user-select: none;
+    font-family: "Inter";
+    align-self: center;
+    font-size: 300%;
+    width: 35%;
+    height: 40%;   
+    margin-left: -22%;
+    letter-spacing: 0.1em;
+    padding-top: 1%;
+}
+
+.shoplink:link{
+    color: whitesmoke;
+    user-select:none;
+    text-decoration:underline;
+    font-weight: 200%;
+    font-size: 113%;
+    align-self: self-end;
+    padding-bottom: 8%;
+    margin-left: -34%;
+    text-underline-offset: 30%;
+    font-family: "Inter";
+}
+.shoplink:visited{
+    color: whitesmoke;
+    user-select:none;
+    text-decoration:underline;
+    font-weight: 200%;
+    font-size: 113%;
+    align-self: self-end;
+    padding-bottom: 8%;
+    margin-left: -34%;
+    text-underline-offset: 30%;
+    font-family: "Inter";
+}
+.shoplink:hover{
+    color: whitesmoke;
+    user-select:none;
+    text-decoration:underline;
+    font-weight: 200%;
+    font-size: 113%;
+    align-self: self-end;
+    padding-bottom: 8%;
+    margin-left: -34%;
+    text-underline-offset: 30%;
+    font-family: "Inter";
+}
+.shoplink:active{
+    color: whitesmoke;
+    user-select:none;
+    text-decoration:underline;
+    font-weight: 200%;
+    font-size: 113%;
+    align-self: self-end;
+    padding-bottom: 8%;
+    margin-left: -34%;
+    text-underline-offset: 30%;
+    font-family: "Inter";
+}
+
+.seta{
+    align-self: self-end;
+    margin-left: 1%;
+    margin-bottom: 8%;
+    width: 3%;
+    height: 7%;
+}
+
+.celular{
+    align-self: self-end;
+    margin-left: 17%;
+    margin-bottom: 3%;
+    width: 60%;
+    height: 90%;
+}
+
+.bolinha{
+  background-color: gray;
+  height: 3%;
+  width: 1.5%;
+  margin-left: -55%;
+  border-radius: 100%;
+  align-self: self-end;
+  margin-bottom: 2%;
+}
+.bolinhas{
+    background-color: gray;
+    height: 3%;
+    width: 1.5%;
+    margin-left: 1%;
+    border-radius: 100%;
+    align-self: self-end;
+    margin-bottom: 2%;
+}
+.bolinhaEscolhida{
+    background-color: rgba(219, 68, 68, 1);
+    height: 3%; 
+    width: 1.5%;
+    margin-left: 1%;
+    border: solid whitesmoke 2px;
+    border-radius: 100%;
+    align-self: self-end;
+    margin-bottom: 2%;
+}

@@ -1,0 +1,38 @@
+.fundo{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+.botao{
+    user-select: none;
+    margin-top: 5%;
+    margin-left: 35%;
+}
+.linha{
+    user-select: none;
+    margin-top: 3%;
+    margin-left: 9%;
+    margin-right: 8%;
+    background-color: rgba(0, 0, 0, 1);
+    opacity: 0.5;
+    height: 0.01rem;
+}
+.categoria{
+    display: flex;
+    flex-direction: row;
+    margin-left: 8.2%;
+    margin-right: 4.7%;
+}
+
+.bolotas{
+    margin-top: 2%;
+    display: flex;
+    margin-left: 20%;
+    margin-right: 80%;
+}

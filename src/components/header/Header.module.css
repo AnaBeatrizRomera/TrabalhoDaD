@@ -1,0 +1,84 @@
+@font-face {
+        font-family: "Inter";
+        src: url("../../assets/Inter/Inter-VariableFont_opsz\,wght.ttf");
+    }
+.fundo{
+    display: flex;
+    padding: 0 20px;
+    background-color: white;
+    color: whitesmoke;
+    font-size: 14px;
+    align-items: center;
+    height: 94px;
+    border-bottom: solid rgb(161, 153, 153) 1px;
+}
+h1{
+    user-select: none;
+    font-family: "Inter";
+    font-size: 150%;
+    padding-top: 1%;
+    margin-left: 8%;
+    justify-self: start;
+    color:black;
+    font-weight: bolder;
+}
+.home{
+    user-select: none;
+    font-family: "Inter";
+    font-size: 105%;
+    padding-top: 1%;
+    margin-left: 14%;
+    justify-self: start;
+    font-weight:normal;
+    color: black;
+    text-decoration: underline;
+    text-decoration-color:rgb(161, 153, 153) ;
+    text-underline-offset: 20%;
+}
+h2{
+    user-select: none;
+    font-family: "Inter";
+    font-size: 105%;
+    padding-top: 1%;
+    margin-left: 4%;
+    justify-self: start;
+    font-weight:normal;
+    color: black;
+}
+.fundopesquisa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(243, 241, 241);
+    color: whitesmoke;
+    height: 35%;
+    width: 17%;
+    user-select: none;
+    margin-left: 10%;
+    border-radius: 4%;
+    margin-top: 1%;
+}
+.texto{
+    user-select: none;
+    font-family: "Inter";
+    font-size: 80%;
+    padding-top: 1%;
+    margin-right: 0;
+    justify-self: start;
+    font-weight:normal;
+    color: rgb(144, 139, 139);
+}
+.img{
+    margin-left: 17%;
+    width: 9%;
+}
+.coracao{
+    width: 2.2%;
+    margin-left: 1.7%;
+    margin-top: 0.8%;
+}
+.carinho{
+    width: 2.2%;
+    margin-left: 1%;
+    margin-top: 0.8%;
+}

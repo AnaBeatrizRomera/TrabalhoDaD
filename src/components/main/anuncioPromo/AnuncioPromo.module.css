@@ -1,0 +1,205 @@
+.fundo{
+    justify-content: center;
+    margin-left: 10%;
+    margin-right: 8%;
+    margin-top: 5%;
+    background-color: rgba(0, 0, 0, 1);
+    height: 30rem;
+    width: 82%;
+    position: relative;
+}
+
+.texto{
+    user-select: none;
+    font-family: "Inter";
+    font-size: 90%;
+    padding-top: 6%;
+    margin-left: 5%;
+    justify-self: start;
+    font-weight:bolder;
+    color: rgba(0, 255, 102, 1);
+}
+
+.titulo{
+    user-select: none;
+    font-family: "Inter";
+    font-size: 300%;
+    width: 40%;
+    padding-top: 1%;
+    margin-left: 5%;
+    justify-self: start;
+    font-weight:bolder;
+    color: whitesmoke;
+}
+
+.som{
+    position: absolute;
+    z-index: 2;
+    align-self: self-end;
+    margin-left: 46%;
+    margin-top: -11%;
+    width: 50%;
+
+}
+
+.bolinha{
+    position: absolute;
+    z-index: 1;
+    align-self: self-end;
+    margin-left: 44%;
+    margin-top: -15%;
+    width: 55%;
+    height: 80%;
+    background-color: whitesmoke;
+    border-radius: 50%;
+    filter: blur(100px);
+    opacity: 0.3;
+}
+
+.bolinha2{
+    position: absolute;
+    z-index: 1;
+    align-self: self-end;
+    margin-left: 5%;
+    margin-top: 2%;
+    width: 4rem;
+    height: 4rem;
+    background-color: whitesmoke;
+    border-radius: 50%;
+}
+.hora{
+    position: absolute;
+    z-index: 1;
+    align-self: self-end;
+    margin-left: 29%;
+    margin-top: 2.5%;
+    font-size: 160%;
+    font-weight: bolder;
+    color: black;
+}
+.texto1{
+    position: absolute;
+    z-index: 1;
+    align-self: self-end;
+    margin-left: 20%;
+    margin-top: 45%;
+    font-size: 100%;
+    font-weight: bolder;
+    color: black;
+
+}
+.bolinha3{
+    position: absolute;
+    z-index: 1;
+    align-self: self-end;
+    margin-left: 12%;
+    margin-top: 2%;
+    width: 4rem;
+    height: 4rem;
+    background-color: whitesmoke;
+    border-radius: 50%;
+}
+.hora1{
+    position: absolute;
+    z-index: 1;
+    align-self: self-end;
+    margin-left: 29%;
+    margin-top: 2.5%;
+    font-size: 160%;
+    font-weight: bolder;
+    color: black;
+}
+.texto2{
+    position: absolute;
+    z-index: 1;
+    align-self: self-end;
+    margin-left: 20%;
+    margin-top: 45%;
+    font-size: 100%;
+    font-weight: bolder;
+    color: black;
+
+}
+
+.bolinha4{
+    position: absolute;
+    z-index: 1;
+    align-self: self-end;
+    margin-left: 19%;
+    margin-top: 2%;
+    width: 4rem;
+    height: 4rem;
+    background-color: whitesmoke;
+    border-radius: 50%;
+}
+.hora2{
+    position: absolute;
+    z-index: 1;
+    align-self: self-end;
+    margin-left: 29%;
+    margin-top: 2.5%;
+    font-size: 160%;
+    font-weight: bolder;
+    color: black;
+}
+.texto3{
+    position: absolute;
+    z-index: 1;
+    align-self: self-end;
+    margin-left: 6.5%;
+    margin-top: 45%;
+    font-size: 100%;
+    font-weight: bolder;
+    color: black;
+
+}
+
+.bolinha5{
+    position: absolute;
+    z-index: 1;
+    align-self: self-end;
+    margin-left: 26%;
+    margin-top: 2%;
+    width: 4rem;
+    height: 4rem;
+    background-color: whitesmoke;
+    border-radius: 50%;
+}
+.hora3{
+    position: absolute;
+    z-index: 1;
+    align-self: self-end;
+    margin-left: 29%;
+    margin-top: 2.5%;
+    font-size: 160%;
+    font-weight: bolder;
+    color: black;
+}
+.texto4{
+    position: absolute;
+    z-index: 1;
+    align-self: self-end;
+    margin-left: 6.5%;
+    margin-top: 45%;
+    font-size: 100%;
+    font-weight: bolder;
+    color: black;
+
+}
+.botao{
+    align-self: self-end;
+    margin-top: 15%;
+    user-select: none;
+    font-family: "Inter";
+    font-size: 80%;
+    padding-top: 1.5%;
+    margin-left: 6%;
+    color: whitesmoke;
+    background-color: rgba(0, 255, 102, 1);
+    border: none;
+    width: 20%;
+    height: 2.3rem;
+    border-radius: 5%;
+    text-align: center;
+    padding-bottom: 3%;
+}

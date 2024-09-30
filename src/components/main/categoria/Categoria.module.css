@@ -1,0 +1,40 @@
+.container{
+    border: solid 0.5px rgb(161, 153, 153);
+    width: 14%;
+    height: 14%;
+    padding: 3%;
+    margin-left: 2% ;
+    border-radius: 5%;
+}
+.img{
+    justify-self: center;
+    margin-left: 27%;
+    width: 50%;
+}
+.containerV{
+    border: solid 0.5px rgb(161, 153, 153);
+    width: 14%;
+    height: 14%;
+    padding: 3%;
+    margin-left: 2% ;
+    border-radius: 5%;
+    background-color: rgba(219, 68, 68, 1);
+}
+.text{
+    text-align: center;
+    user-select: none;
+    font-family: "Inter";
+    font-size: 80%;
+    padding-top: 1%;
+    margin-left: 10%;
+    color: black;
+}
+.textV{
+    text-align: center;
+    user-select: none;
+    font-family: "Inter";
+    font-size: 80%;
+    padding-top: 1%;
+    margin-left: 10%;
+    color: whitesmoke;
+}

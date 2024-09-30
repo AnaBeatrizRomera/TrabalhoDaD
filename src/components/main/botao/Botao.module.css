@@ -1,0 +1,15 @@
+.botao{
+    user-select: none;
+    font-family: "Inter";
+    font-size: 80%;
+    padding-top: 1%;
+    margin-left: 14%;
+    color: whitesmoke;
+    background-color: rgba(219, 68, 68, 1);
+    border: none;
+    width: 20%;
+    height: 2.3rem;
+    border-radius: 5%;
+    text-align: center;
+    padding-bottom: 1%;
+}
